@@ -4,9 +4,9 @@ This is a video game being developed in [Unreal Engine 5.4](https://www.unrealen
 
 ## Status
 
-Lately, I've been in a bit of a frenzy of development, so things are getting done faster than expected for a side project. One level is complete, and a build is available, and good progress is being made for the second level. Things will probably slow back down as I get busier with other things, but for the time being, I'm on a roll.
+Beta 0.2 has just been released, so there are now 2 out of 14 intended levels available. I'm taking a brief pause for reaction time before moving on to the next build.
 
-The team size is two people. I am taking care of the majority of the programming, and JoobyG5 seems to be focusing on art. We've also been discussing plans for the course of the game.
+The team size is two people. I am taking care of the majority of the programming, and JoobyG5 seems to be focusing on art. We've also been discussing plans for the course of the game. Alcatraz_Jones isn't a full team member, but is also working on an art task.
 
 At this time, scope seems reasonable for programming, but I am concerned that the rest is going to lag behind. I plan on finding ways to bring more visibility to the project and hopefully catch the attention of more volunteers, ideally in art and level design.
 
@@ -14,7 +14,7 @@ At this time, scope seems reasonable for programming, but I am concerned that th
 
 I've planned out the general route of the game's story. It will consist of "missions" containing two levels each, except for the tutorial (which will only have one) and the final mission (which may have three, we'll see.)
 
-After the tutorial is completed, four "branch missions" will open, one for each branch of S.T.A.B. (Structures, Tools, Automation, and Biochem.) These can be completed in any order. Currently, the T-branch mission is underway. Once those are done, there will be a sequence of two additional missions to wrap up the story. These missions will tie in story elements from the branch missions and have a fixed order.
+After the tutorial is completed, four "branch missions" will open, one for each branch of S.T.A.B. (Structures, Tools, Automation, and Biochem.) These can be completed in any order. Currently, the T-class mission is underway. Once those are done, there will be a sequence of two additional missions to wrap up the story. These missions will tie in story elements from the branch missions and have a fixed order.
 
 Each level will have four optional objectives for bonus points, again one for each branch. Each level should come with 1-3 "new" upgrades (that is, not having appeared in any prior levels that the player must have completed to get there.) At least one of these should be created for that level, while others may be reused from levels in non-prerequisite missions.
 
