@@ -4,7 +4,7 @@ This is a video game being developed in [Unreal Engine 5.4](https://www.unrealen
 
 ## Status
 
-Beta 0.2 has just been released, so there are now 2 out of 14 intended levels available.
+Beta 0.2 was released, so there are now 2 out of 14 intended levels available. I'm currently on a hiatus as I've been sick lately and have other projects taking priority for now, but I intend to return to this before too long.
 
 The team size is two people. I am taking care of the majority of the programming, and JoobyG5 seems to be focusing on art. We've also been discussing plans for the course of the game. Alcatraz_Jones isn't a full team member, but is also working on an art task.
 
