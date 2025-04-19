@@ -2,14 +2,6 @@
 
 This is a video game being developed in [Unreal Engine 5.4](https://www.unrealengine.com/en-US/unreal-engine-5). In it, you play as a scientist who invented a high tech sword that can absorb technology and integrate with his suit to replicate abilities it absorbed by crafting temporary upgrades. For example, after defeating a robot with lasers, you can pick up its scrap to create a wrist-mounted laser gun.
 
-## Status
-
-Beta 0.2 was released, so there are now 2 out of 14 intended levels available. I'm currently on a hiatus as I've been sick lately and have other projects taking priority for now, but I intend to return to this before too long.
-
-The team size is two people. I am taking care of the majority of the programming, and JoobyG5 seems to be focusing on art. We've also been discussing plans for the course of the game. Alcatraz_Jones isn't a full team member, but is also working on an art task.
-
-At this time, scope seems reasonable for programming, but I am concerned that the rest is going to lag behind. I plan on finding ways to bring more visibility to the project and hopefully catch the attention of more volunteers, ideally in art and level design.
-
 ## Plans
 
 I've planned out the general route of the game's story. It will consist of "missions" containing two levels each, except for the tutorial (which will only have one) and the final mission (which may have three, we'll see.)
@@ -36,9 +28,3 @@ In any case, the following are always good ways to help:
 * **Open an issue.** If you see something wrong with the game, or if you want to suggest new features, open an issue here on GitHub. We'll evaluate it and may work it into the game.
 * **Tackle an issue.** If you see an issue you think you can handle, feel free to fork the project and take it. I'd prefer if you let me know first so that I can assign it to you and nobody steps on your toes.
 * **Join the team.** If you want to help in the long-term, contact me on Discord and I can give you write access to the repository, so you can make your branches here (instead of forking) and assign issues to yourself. We also have a dev chat to discuss the direction of the game.
-
-## Licensing
-
-For the time being, all rights are reserved. I need to take some time to consider the pros and cons of different licenses. Until then, if you want to do anything with the project, let me know. Unless you want to sell my builds royalty-free, we can probably come to an arrangement. I'm not trying to be stingy.
-
-As per GitHub's terms of service, you do not need my permission to fork the project. I'd like to know before you help so that we don't step on each other's toes, but it's not strictly required.
