@@ -2,14 +2,6 @@
 
 This is a video game being developed in [Unreal Engine 5.4](https://www.unrealengine.com/en-US/unreal-engine-5). In it, you play as a scientist who invented a high tech sword that can absorb technology and integrate with his suit to replicate abilities it absorbed by crafting temporary upgrades. For example, after defeating a robot with lasers, you can pick up its scrap to create a wrist-mounted laser gun.
 
-## Status
-
-Beta 0.2 was released, so there are now 2 out of 14 intended levels available. I'm currently on a hiatus as I've been sick lately and have other projects taking priority for now, but I intend to return to this before too long.
-
-The team size is two people. I am taking care of the majority of the programming, and JoobyG5 seems to be focusing on art. We've also been discussing plans for the course of the game. Alcatraz_Jones isn't a full team member, but is also working on an art task.
-
-At this time, scope seems reasonable for programming, but I am concerned that the rest is going to lag behind. I plan on finding ways to bring more visibility to the project and hopefully catch the attention of more volunteers, ideally in art and level design.
-
 ## Plans
 
 I've planned out the general route of the game's story. It will consist of "missions" containing two levels each, except for the tutorial (which will only have one) and the final mission (which may have three, we'll see.)
