@@ -4,15 +4,11 @@ This is a video game being developed in [Unreal Engine 5.5](https://www.unrealen
 
 ## Plans
 
-I've planned out the general route of the game's story. It will consist of "missions" containing two levels each, except for the tutorial (which will only have one) and the final mission (which may have three, we'll see.)
+I've planned out the general route of the game's story. It will consist of a number of "missions" typically containing two levels each. There will be one tutorial/introduction mission, followed by one mission for each branch of S.T.A.B. (Structures, Tools, Automation, and Biochem,) and then two additional missions to wrap up the story. Spoilers about unreleased plot are available upon request.
 
-After the tutorial is completed, four "branch missions" will open, one for each branch of S.T.A.B. (Structures, Tools, Automation, and Biochem.) These can be completed in any order. Currently, the T-class mission is underway. Once those are done, there will be a sequence of two additional missions to wrap up the story. These missions will tie in story elements from the branch missions and have a fixed order.
+Each level will have four optional objectives, again one for each branch. Each level should come with 1-3 new upgrades. In addition, each upgrade will have a challenge level. For the time being, I would like to release a build each time a new level is complete. If the team expands, I'll consider including multiple new levels per build.
 
-Each level will have four optional objectives for bonus points, again one for each branch. Each level should come with 1-3 "new" upgrades (that is, not having appeared in any prior levels that the player must have completed to get there.) At least one of these should be created for that level, while others may be reused from levels in non-prerequisite missions.
-
-Eventually, I plan to add a skill tree (using credits earned from score) and a dynamic difficulty system so that you can complete the branch missions in any order and still have appropriate balancing.
-
-For the time being, I would like to release a build each time a new level is complete. If the team expands, I'll consider including multiple new levels per build.
+For more details, see the issues tab, or ask me about the roadmap. This README is not often updated, so I'm leaving many details out to avoid leaving outdated information up.
 
 At the current rate, I am aware that this game will take years to complete. That's fine by me, because this is work I enjoy, and the more progress I make, the cooler the game will become, which will motivate me further and possibly inspire others to join in. This is a personal project with no deadline, but I will re-evaluate scope if circumstances require it.
 
